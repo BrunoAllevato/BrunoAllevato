@@ -57,3 +57,13 @@ https://brunoall-watch-list.herokuapp.com/ - Still In Progress...
 <a href="https://instagram.com/bvaes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bvaes" height="30" width="40" /></a>
 <a href="https://discord.gg/Bruno.Allevato#3161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bruno.Allevato#3161" height="30" width="40" /></a>
 </p>
+<!--
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/BrunoAllevato">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrunoAllevato&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrunoAllevato&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+-->
