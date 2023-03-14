@@ -39,10 +39,10 @@ Progresso Fit:
 https://progresso-fit.herokuapp.com/
 
 MarketIdols:
-https://idolsmarket.herokuapp.com/ - Still In Progress...
+https://idolsmarket.herokuapp.com/ 
 
 Watch Movie List:
-https://brunoall-watch-list.herokuapp.com/ - Still In Progress...
+https://brunoall-watch-list.herokuapp.com/ 
 
 </br>
 
